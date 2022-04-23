@@ -1,5 +1,12 @@
 .container {
-  padding: 0 2rem;
+  width: 100vw;
+  height: 100vh;
+  display: grid;
+  place-items: center;
+}
+
+.container img {
+  width: 20%;
 }
 
 .main {
