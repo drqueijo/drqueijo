@@ -23,7 +23,7 @@ export default function Home() {
   
   return (
     <div onClick={playAudio} className={styles.container}>
-      {click ? <img src="/gigachad.webp" /> : <img src="/download.png" /> }   
+      {click ? <img src="/gigachad.webp" /> : <img src="/download.png" /> } 
     </div>
   )
 }
