@@ -1,34 +1,32 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Matheus Silverio
+Welcome to my GitHub repository! This is where I showcase my skills and projects as a front-end engineer with expertise in React, TypeScript, and Next.js. I'm passionate about crafting engaging user experiences and building scalable and performant web applications.
 
-## Getting Started
+About Me
+I am a dedicated front-end engineer with 4 years of experience in the industry. Throughout my career, I have worked on various projects, ranging from small-scale applications to large enterprise solutions. My focus lies in leveraging the latest web technologies to create intuitive and visually appealing interfaces.
 
-First, run the development server:
+Skills
+React: I have extensive experience working with React, a powerful JavaScript library for building user interfaces. I leverage React's component-based architecture and virtual DOM to create reusable and maintainable code.
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+TypeScript: I am proficient in TypeScript, a typed superset of JavaScript. TypeScript brings static typing to JavaScript, enabling enhanced code quality, better documentation, and improved developer tooling.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Next.js: I have hands-on experience with Next.js, a popular React framework. By utilizing Next.js, I can achieve server-side rendering (SSR) and static site generation (SSG) for improved performance and SEO.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+HTML5 & CSS3: I have a strong foundation in HTML5 and CSS3, ensuring clean and semantically structured markup. I am skilled in creating responsive layouts and utilizing CSS frameworks such as Bootstrap or Tailwind CSS.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+Selenium: Browser automation and frontend testing
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+Version Control: I am proficient in Git, enabling efficient collaboration and version control. I am comfortable working with GitHub, ensuring seamless code management and project collaboration.
 
-## Learn More
+Projects
+Here are some of the noteworthy projects I have worked on:
 
-To learn more about Next.js, take a look at the following resources:
+The men's: A responsive e-commerce website built with React and Redux. It features a dynamic product catalog, shopping cart functionality, and user authentication.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Portal - (pillot admin interface): An interactive dashboard application developed with Next.js and TypeScript. It integrates with an API to display real-time data visualizations and provides a user-friendly interface for data analysis.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+webscrapping: Series of scripts to scrap some data from browser pages with selenium
 
-## Deploy on Vercel
+Get in Touch
+I'm always interested in collaborating on exciting projects or discussing new opportunities. Feel free to reach out to me via email at silveriomat1234@gmail.com or connect with me on LinkedIn: https://www.linkedin.com/in/drqueijo/.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Thank you for visiting my GitHub repository! I look forward to hearing from you.
